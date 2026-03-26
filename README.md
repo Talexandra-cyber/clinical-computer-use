@@ -1,4 +1,4 @@
-# Dynamic Clinical Browser V3.1
+# clinical-computer-use
 
 A specialized computer-use agent for clinical EMR automation. Outperformed Google Gemini 2.5 by 28 percentage points on specialized clinical forms — demonstrating that domain-specific agents beat general-purpose models where precision matters.
 
