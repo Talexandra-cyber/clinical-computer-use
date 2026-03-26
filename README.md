@@ -39,7 +39,7 @@ The system was built and tested against 3 production EMR environments (MedFlow, 
 
 ## Project Scale
 
-- 181 hours of development over 14 days
+- ~100 hours of development over 14 days
 - 9 Python modules
 - 4 testing platforms
 - 19-file test suite (8 transcripts, 7 insurance cards, 2 EMR templates)
